@@ -82,7 +82,7 @@ header div p:first-of-type {
 }
 
 .carousel-img-two {
-	background-image: url("../img/main-carousel-2.jpg");
+	 background-image: url("../img/main-carousel-2.jpg"); 
 }
 
 .carousel-img-three {
