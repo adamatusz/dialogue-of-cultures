@@ -199,6 +199,14 @@ footer img {
 	}
 }
 
+/* project */
+
+.project-hero {
+	background-image: url(../img/project/project-hero.jpg);
+	background-position: 0 70%;
+	height: 300px;
+}
+
 /* contact */
 .contact-hero {
 	background-image: url("../img/contact/contact-hero.jpg");
