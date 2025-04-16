@@ -210,6 +210,16 @@ footer img {
 	width: auto;
 }
 
+.contact h2 {
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.contact-map iframe {
+	width: 100%;
+	min-height: 400px;
+}
+
 @media (max-width: 1440px) {
 	.carousel-item {
 		height: 600px;
