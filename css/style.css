@@ -203,14 +203,15 @@ footer img {
 
 .project-hero {
 	background-image: url(../img/project/project-hero.jpg);
-	background-position: 0 70%;
+	background-position: 0 75%;
 	height: 300px;
 }
 
 /* contact */
 .contact-hero {
 	background-image: url("../img/contact/contact-hero.jpg");
-	background-position: 0 80%;
+	background-position: 0 90%;
+	height: 400px;
 }
 
 .contact-logo img {
